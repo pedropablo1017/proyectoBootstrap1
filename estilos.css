@@ -1,0 +1,35 @@
+header{
+    background-color: black;
+    color: white;
+}
+
+main .cajagris{
+    background-color: darkgray;
+    text-align: justify;
+    margin-bottom: 50px;
+    border: black solid 2px;
+}
+
+main a{
+    color:blue;
+    margin-right: 22px;
+    margin-bottom: 20px;
+}
+.col-md-6{
+    text-align: justify
+}
+
+.col-12{
+    border: black solid 1px;
+}
+.caja1{
+    margin: 2px;
+    margin-right: 80px;
+    
+}
+
+footer{
+    background-color:darkgray;
+    color: black;
+    margin-top: 30px;
+}
